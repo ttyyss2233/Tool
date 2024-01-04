@@ -1,6 +1,18 @@
-#!name = YouTube去广告
+#!name = YouTube去广告&musicNoad
 #!desc=适用于 Youtube & Youtube Music (IOS >= 15)
 #!author = Maasea 
+# - 删除 Youtube (Music) 广告
+# - 删除 Youtube 底部 上传 按钮 & Youtube Music 底部选段、升级按钮
+# + 增加 Youtube 画中画(PIP)
+# + 增加 Youtube 字幕翻译 (Thanks @VirgilClyne)
+# + 增加 Youtube (Music) 后台播放
+# + 增加 Youtube Music 歌词翻译
+
+# > Note
+# Youtube 画中画和后台播放分别在客户端内关闭
+#   - 设置 -> 通用 -> 画中画
+#   - 设置 -> 后台播放和下载 -> 后台播放
+# 该模块已足够全面，无需其他规则混用，防止重写规则被破坏
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT-NO-DROP
