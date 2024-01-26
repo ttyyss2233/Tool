@@ -18,6 +18,7 @@ host-suffix, ddys.pro, DIRECT
 host-suffix, ddys.mov, DIRECT
 #欧乐影院（代理）
 host-suffix, olevod.com, PROXY
+host-suffix, olelive.com, PROXY
 #海外看（代理）
 host-suffix, haiwaikan.com, PROXY
 #天翼资源（代理）
