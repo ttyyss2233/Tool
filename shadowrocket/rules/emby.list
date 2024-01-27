@@ -1,4 +1,3 @@
-# https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
 DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.flowercloud.yt
@@ -128,8 +127,10 @@ DOMAIN-SUFFIX,emby.ws
 DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,9521732.xyz
+DOMAIN-SUFFIX,cherrytv.one
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,lyrebirdemby.com
 IP-CIDR,167.235.116.53/32,no-resolve
+
 
