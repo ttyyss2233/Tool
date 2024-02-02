@@ -1,7 +1,9 @@
-host, hokgcloudv6.iegcom.com, glados节点
-host, hwconfig.gcloudcs.com, glados节点
-host-suffix, vod2.myqcloud.com, glados节点
-host, asia.cschannel.anticheatexpert.com, glados节点
-host, hok-dr.intlgame.com, glados节点
-host-suffix, vasdgame.com, glados节点
-host-suffix, sgameglobal.com, glados节点
+host, hokgcloudv6.iegcom.com, 🎮游戏节点
+host, hwconfig.gcloudcs.com, 🎮游戏节点
+host, hok.intlgame.com, 🎮游戏节点
+host, asia.cschannel.anticheatexpert.com, 🎮游戏节点
+host, hok-dr.intlgame.com, 🎮游戏节点
+host-suffix, vasdgame.com, 🎮游戏节点
+host-suffix, sgameglobal.com, 🎮游戏节点
+host-suffix, intlgame.com, 🎮游戏节点
+host-suffix, vod2.myqcloud.com, 🎮游戏节点
