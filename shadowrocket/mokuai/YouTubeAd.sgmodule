@@ -1,12 +1,6 @@
 #!name = YouTube去广告&musicNoad
 #!desc=适用于 Youtube & Youtube Music (IOS >= 15)
 #!author = Maasea 
-# - 删除 Youtube (Music) 广告
-# - 删除 Youtube 底部 上传 按钮 & Youtube Music 底部选段、升级按钮
-# + 增加 Youtube 画中画(PIP)
-# + 增加 Youtube 字幕翻译 (Thanks @VirgilClyne)
-# + 增加 Youtube (Music) 后台播放
-# + 增加 Youtube Music 歌词翻译
 # 该模块已足够全面，无需其他规则混用，防止重写规则被破坏
 
 [Rule]
