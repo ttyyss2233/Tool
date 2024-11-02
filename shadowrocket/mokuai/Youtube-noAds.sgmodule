@@ -1,10 +1,10 @@
 #!name= YouTube油管去广告
 #!desc=适用于 Youtube & Youtube Music (IOS >= 15)
 #!author = Maasea 
+
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
-DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 
 [URL Rewrite]
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad - reject-200
